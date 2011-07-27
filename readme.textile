@@ -1,0 +1,22 @@
+h1. Hi!
+
+There are more programming languages than we can count. To write decent tools
+to handle them (especially syntax highlighters), we need lots of good,
+advanced, crazy code examples to test against.
+
+If you know a language, and have a piece of interesting code to share, please
+fork this repository, add your code example, and make a pull request!
+
+h2. Structure
+
+is simple:
+
+bc. /
+  ruby/
+    my-example.rb
+    another.rb
+  javascript/
+    got-it.js
+    justlikethis.js
+  erlang/
+    choose-good-names.erl
